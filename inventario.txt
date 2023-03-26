@@ -1,0 +1,23 @@
+0	Xbox Series X	500
+1	Xbox Series S	450
+2	Playstation 5 Standard Edition	350
+3	Playstation 5 Digital Edition	350
+4	Mando Xbox Series X|S	500
+5	Playstation 5 DualSense	500
+6	Xbox One X	170
+7	Playstation 4 Pro	145
+8	Xbox One S	90
+9	Nintendo Switch	250
+10	Nintendo Switch Lite	350
+11	Joy-Con	200
+12	Spider-Man Miles Morales Standard Edition - Playstation 5	250
+13	Spider-Man Miles Morales Ultimate Edition - Playstation 5	200
+14	Sackboy: A Big Adventure - Playstation 5	400
+15	Demon's Souls - Playstation 5	200
+16	Yakuza: Like A Dragon Day One Limited Edition - Xbox One & Xbox Series X|S	300
+17	Assassin's Creed Valhalla Standard Edition - Xbox One & Xbox Series X|S	250
+18	Super Mario 3D All Stars - Nintendo Switch	450
+19	Animal Crossing New Horizons - Nintendo Switch	250
+20	The Medium - Xbox Series X|S	350
+21	FIFA 21 Standard Edition - Xbox One & Xbox Series X|S	200
+22	Call of Duty: Black Ops Cold War Standard Edition - Playstation 5	203
